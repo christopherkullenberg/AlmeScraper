@@ -1,7 +1,7 @@
 # AlmeScraper
 Some scripts for scraping almedalsveckan.info
 
-## AlmedalenParser.ipynb
+## AlmedalenParser.py.ipynb
 Scrapes the almedalsveckan.info web page and writes the parsed data to a csv-file. 
 
 ## almeurl.txt
